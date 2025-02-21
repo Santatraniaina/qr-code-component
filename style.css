@@ -10,19 +10,6 @@
 	--slate-900: hsl(218, 44%, 22%);
 }
 
-.outfit-400 {
-	font-family: "Outfit", serif;
-	font-optical-sizing: auto;
-	font-weight: 400;
-	font-style: normal;
-}
-
-.outfit-700 {
-	font-family: "Outfit", serif;
-	font-optical-sizing: auto;
-	font-weight: 700;
-	font-style: normal;
-}
 
 body {
     margin: 0;
@@ -32,20 +19,19 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	width: 100%;
 	height: 100vh;
 }
 
 .qr-code-container {
-	width: 250px;
+	width: 260px;
 	text-align: center;
 	background-color: var(--white);
 	padding: 1em;
 	border-radius: 1em;
 
 	img {
-		width: 250px;
-		height: 250px;
+		width: 260px;
+		height: 260px;
 		border-radius: 0.5em;
 	}
 
