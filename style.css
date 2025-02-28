@@ -22,6 +22,9 @@ body {
 	height: 100vh;
 }
 
+
+/* Just give a try with built-in CSS Nesting */
+/* I think it is more easy to read like so , what's your opinion ? */
 .qr-code-container {
 	width: 260px;
 	text-align: center;
